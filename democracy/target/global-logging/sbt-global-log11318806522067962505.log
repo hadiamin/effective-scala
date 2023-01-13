@@ -1,0 +1,23 @@
+[debug] > Exec(submit aminhadi65@gmail.com RtAOTeri3vIZCkWi, None, None)
+[debug] Evaluating tasks: submit
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes ...
+[info] done compiling
+[info] Attempting to submit "democracy" assignment in "effective-scala" course
+[info] Using:
+[info] - email: aminhadi65@gmail.com
+[info] - submit token: RtAOTeri3vIZCkWi
+[info] Connecting to Coursera...
+[info] Successfully connected to Coursera. (Status 201)
+[info] 
+[info] Assignment submitted successfully!
+[info] 
+[info] You can see how you scored by going to:
+[info] https://www.coursera.org/learn/effective-scala/programming/vujw6/
+[info] or (for premium learners):
+[info] https://www.coursera.org/learn/effective-scala/programming/Y3zSS
+[info]                        
+[info] and clicking on "My Submission".
+[debug] Forcing garbage collection...
+[success] Total time: 13 s, completed Jan 12, 2023, 8:47:52 AM
+[debug] > Exec(idea-shell, None, None)

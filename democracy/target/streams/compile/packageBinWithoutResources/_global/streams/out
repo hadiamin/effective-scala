@@ -1,0 +1,31 @@
+[debug] Packaging C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\effective-scala-democracy-without-resources_3-0.1.0-SNAPSHOT.jar ...
+[debug] Input file mappings:
+[debug] 	democracy
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy
+[debug] 	democracy\Ballot$.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Ballot$.class
+[debug] 	democracy\Ballot.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Ballot.class
+[debug] 	democracy\Ballot.tasty
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Ballot.tasty
+[debug] 	democracy\Candidate$.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Candidate$.class
+[debug] 	democracy\Candidate.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Candidate.class
+[debug] 	democracy\Candidate.tasty
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Candidate.tasty
+[debug] 	democracy\Election$.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Election$.class
+[debug] 	democracy\Election.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Election.class
+[debug] 	democracy\Election.tasty
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Election.tasty
+[debug] 	democracy\Grade$$anon$1.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Grade$$anon$1.class
+[debug] 	democracy\Grade$.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Grade$.class
+[debug] 	democracy\Grade.class
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Grade.class
+[debug] 	democracy\Grade.tasty
+[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes\democracy\Grade.tasty
+[debug] Done packaging.

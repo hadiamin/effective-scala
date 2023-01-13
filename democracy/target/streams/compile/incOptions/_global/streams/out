@@ -1,0 +1,59 @@
+[debug] Created transactional ClassFileManager with tempDir = C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes.bak
+[debug] About to delete class files:
+[debug] 	Ballot$.class
+[debug] 	Grade$.class
+[debug] 	Candidate.class
+[debug] 	Ballot.class
+[debug] 	Grade.class
+[debug] 	Candidate$.class
+[debug] 	Grade$$anon$1.class
+[debug] 	Election.class
+[debug] 	Election$.class
+[debug] 	Ballot$.tasty
+[debug] 	Grade$.tasty
+[debug] 	Candidate.tasty
+[debug] 	Ballot.tasty
+[debug] 	Grade.tasty
+[debug] 	Candidate$.tasty
+[debug] 	Grade$$anon$1.tasty
+[debug] 	Election.tasty
+[debug] 	Election$.tasty
+[debug] We backup class files:
+[debug] 	Ballot$.class
+[debug] 	Grade$.class
+[debug] 	Candidate.class
+[debug] 	Ballot.class
+[debug] 	Grade.class
+[debug] 	Candidate$.class
+[debug] 	Grade$$anon$1.class
+[debug] 	Election.class
+[debug] 	Election$.class
+[debug] 	Ballot$.tasty
+[debug] 	Grade$.tasty
+[debug] 	Candidate.tasty
+[debug] 	Ballot.tasty
+[debug] 	Grade.tasty
+[debug] 	Candidate$.tasty
+[debug] 	Grade$$anon$1.tasty
+[debug] 	Election.tasty
+[debug] 	Election$.tasty
+[debug] Registering generated classes:
+[debug] 	Ballot$.class
+[debug] 	Grade$.class
+[debug] 	Candidate.class
+[debug] 	Ballot.class
+[debug] 	Grade.class
+[debug] 	Candidate$.class
+[debug] 	Grade$$anon$1.class
+[debug] 	Election.class
+[debug] 	Election$.class
+[debug] 	Ballot$.tasty
+[debug] 	Grade$.tasty
+[debug] 	Candidate.tasty
+[debug] 	Ballot.tasty
+[debug] 	Grade.tasty
+[debug] 	Candidate$.tasty
+[debug] 	Grade$$anon$1.tasty
+[debug] 	Election.tasty
+[debug] 	Election$.tasty
+[debug] Removing the temporary directory used for backing up class files: C:\Users\amin.hadi\Documents\GitHub\effective-scala\democracy\target\scala-3.1.0\classes.bak
