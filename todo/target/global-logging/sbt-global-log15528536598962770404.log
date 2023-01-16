@@ -1,0 +1,130 @@
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.6.1 (Amazon.com Inc. Java 11.0.15)
+[debug]             Load.loadUnit: plugins took 13.522001ms
+[debug]             Load.loadUnit: defsScala took 0.0026ms
+[debug] [Loading] Scanning directory C:\Users\amin.hadi\.sbt\1.0\plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\amin.hadi\.sbt\1.0\plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 0.8782 ms
+[debug]                 Load.resolveProject(global-plugins) took 0.6363ms
+[debug]               Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\amin.hadi\.sbt\1.0\plugins, plugins: List(<none>))) took 1.789099ms
+[debug] [Loading] Done in C:\Users\amin.hadi\.sbt\1.0\plugins, returning: (global-plugins)
+[debug]             Load.loadUnit: loadedProjectsRaw took 2.3722ms
+[debug]             Load.loadUnit: cleanEvalClasses took 0.005201ms
+[debug]           Load.loadUnit(file:/C:/Users/amin.hadi/.sbt/1.0/plugins/, ...) took 16.3158ms
+[debug]         Load.apply: load took 16.9366ms
+[debug]         Load.apply: resolveProjects took 0.078199ms
+[debug]         Load.apply: finalTransforms took 2.9484ms
+[debug]         Load.apply: config.delegates took 0.1538ms
+[debug]         Load.apply: Def.make(settings)... took 24.6526ms
+[debug]         Load.apply: structureIndex took 8.533101ms
+[debug]         Load.apply: mkStreams took 0.0031ms
+[info] loading global plugins from C:\Users\amin.hadi\.sbt\1.0\plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]       Load.defaultLoad until apply took 134.0353ms
+[debug]                 Load.loadUnit: plugins took 18.1951ms
+[debug]                 Load.loadUnit: defsScala took 0.004ms
+[debug] [Loading] Scanning directory C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\project
+[debug]                   Load.loadUnit: mkEval took 0.3183ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 0.8544 ms
+[info] loading settings for project todo-build from buildSettings.sbt,plugins.sbt,idea3.sbt ...
+[debug]                     Load.resolveProject(todo-build) took 1.7759ms
+[debug]                   Load.loadTransitive: finalizeProject(Project(id todo-build, base: C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\project, plugins: List(<none>))) took 2.945701ms
+[debug] [Loading] Done in C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\project, returning: (todo-build)
+[debug]                 Load.loadUnit: loadedProjectsRaw took 45.664801ms
+[debug]                 Load.loadUnit: cleanEvalClasses took 2.5962ms
+[debug]               Load.loadUnit(file:/C:/Users/amin.hadi/Documents/GitHub/effective-scala/todo/project/, ...) took 67.1729ms
+[debug]             Load.apply: load took 68.237001ms
+[debug]             Load.apply: resolveProjects took 0.101699ms
+[debug]             Load.apply: finalTransforms took 15.1826ms
+[debug]             Load.apply: config.delegates took 0.304599ms
+[debug]             Load.apply: Def.make(settings)... took 42.2642ms
+[debug]             Load.apply: structureIndex took 7.7085ms
+[debug]             Load.apply: mkStreams took 0.002799ms
+[info] loading project definition from C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]           Load.loadUnit: plugins took 416.384799ms
+[debug]           Load.loadUnit: defsScala took 0.0022ms
+[debug] [Loading] Scanning directory C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo
+[debug]             Load.loadUnit: mkEval took 0.249999ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(ch.epfl.lamp.StudentTasks), Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(scalafix.sbt.ScalafixPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(scalafix.sbt.ScalafixTestkitPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.StructurePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.IdeaShellPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(ch.epfl.lamp.MOOCSettings),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(ch.epfl.lamp.StudentTasks),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(ch.epfl.lamp.StudentTasks),Set(Atom(ch.epfl.lamp.MOOCSettings)))
+[debug] Clause(Atom(ch.epfl.lamp.CourseraStudent),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(ch.epfl.lamp.CourseraStudent),Set(Atom(ch.epfl.lamp.MOOCSettings)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(scalafix.sbt.ScalafixPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.StructurePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.IdeaShellPlugin)))
+[debug] Clause(And(Set(Atom(sbt.plugins.CorePlugin), Atom(sbt.plugins.JvmPlugin))),Set(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin)))
+[debug] Clause(And(Set(Atom(ch.epfl.lamp.StudentTasks), Atom(sbt.plugins.JvmPlugin), Atom(ch.epfl.lamp.MOOCSettings))),Set(Atom(ch.epfl.lamp.CourseraStudent))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,ch.epfl.lamp.StudentTasks,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,ch.epfl.lamp.MOOCSettings,sbt.plugins.JvmPlugin,ch.epfl.lamp.CourseraStudent,sbt.plugins.SemanticdbPlugin,org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin,sbt.plugins.JUnitXmlReportPlugin,org.jetbrains.sbt.IdeaShellPlugin,scalafix.sbt.ScalafixPlugin,org.jetbrains.sbt.StructurePlugin,sbt.plugins.MiniDependencyTreePlugin)
+[debug] Plugins.deducer#function took 1.2856 ms
+[info] loading settings for project todo from assignment.sbt,build.sbt ...
+[debug]               Load.resolveProject(todo) took 24.738099ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id todo, base: C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo, plugins: List(<none>))) took 26.539599ms
+[debug] [Loading] Done in C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo, returning: (todo)
+[debug]           Load.loadUnit: loadedProjectsRaw took 107.389001ms
+[debug]           Load.loadUnit: cleanEvalClasses took 2.670101ms
+[debug]         Load.loadUnit(file:/C:/Users/amin.hadi/Documents/GitHub/effective-scala/todo/, ...) took 526.6911ms
+[debug]       Load.apply: load took 527.7341ms
+[debug]       Load.apply: resolveProjects took 0.089399ms
+[debug]       Load.apply: finalTransforms took 12.385601ms
+[debug]       Load.apply: config.delegates took 0.1684ms
+[debug]       Load.apply: Def.make(settings)... took 215.236301ms
+[debug]       Load.apply: structureIndex took 9.6985ms
+[debug]       Load.apply: mkStreams took 0.0204ms
+[info] set current project to effective-scala-todo (in build file:/C:/Users/amin.hadi/Documents/GitHub/effective-scala/todo/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(idea-shell, None, None)
