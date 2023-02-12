@@ -1,6 +1,6 @@
-[debug] Copy resource mappings: 
-[debug] 	(C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\src\main\resources\todo\favicon.ico,C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\favicon.ico)
-[debug] 	(C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\src\main\resources\todo\index.html,C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\index.html)
-[debug] 	(C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\src\main\resources\todo\manifest.json,C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\manifest.json)
-[debug] 	(C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\src\main\resources\todo\todo-ui-opt.js,C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\todo-ui-opt.js)
-[debug] 	(C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\src\main\resources\todo\todo-ui-opt.js.map,C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\todo-ui-opt.js.map)
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amin/Downloads/todo/src/main/resources/todo/favicon.ico,/Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/favicon.ico)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amin/Downloads/todo/src/main/resources/todo/index.html,/Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/index.html)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amin/Downloads/todo/src/main/resources/todo/todo-ui-opt.js.map,/Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/todo-ui-opt.js.map)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amin/Downloads/todo/src/main/resources/todo/manifest.json,/Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/manifest.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/amin/Downloads/todo/src/main/resources/todo/todo-ui-opt.js,/Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/todo-ui-opt.js)[0m

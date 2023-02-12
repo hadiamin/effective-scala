@@ -1,131 +1,119 @@
-[debug] Packaging C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\effective-scala-todo_3-0.1.0-SNAPSHOT.jar ...
-[debug] Input file mappings:
-[debug] 	io
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io
-[debug] 	io\circe
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io\circe
-[debug] 	io\circe\parser
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io\circe\parser
-[debug] 	io\circe\parser\CirceShim$package$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io\circe\parser\CirceShim$package$.class
-[debug] 	io\circe\parser\CirceShim$package.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io\circe\parser\CirceShim$package.class
-[debug] 	io\circe\parser\CirceShim$package.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\io\circe\parser\CirceShim$package.tasty
-[debug] 	todo
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo
-[debug] 	todo\AssetService$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\AssetService$.class
-[debug] 	todo\AssetService.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\AssetService.class
-[debug] 	todo\AssetService.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\AssetService.tasty
-[debug] 	todo\data
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data
-[debug] 	todo\data\Codecs$$anon$1.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$$anon$1.class
-[debug] 	todo\data\Codecs$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$.class
-[debug] 	todo\data\Codecs$idEncoder$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$idEncoder$.class
-[debug] 	todo\data\Codecs$stateCodec$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$stateCodec$.class
-[debug] 	todo\data\Codecs$tagCodec$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$tagCodec$.class
-[debug] 	todo\data\Codecs$tagsCodec$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$tagsCodec$.class
-[debug] 	todo\data\Codecs$taskCodec$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$taskCodec$.class
-[debug] 	todo\data\Codecs$tasksCodec$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs$tasksCodec$.class
-[debug] 	todo\data\Codecs.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs.class
-[debug] 	todo\data\Codecs.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Codecs.tasty
-[debug] 	todo\data\Id$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Id$.class
-[debug] 	todo\data\Id.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Id.class
-[debug] 	todo\data\Id.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Id.tasty
-[debug] 	todo\data\State$$anon$1.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State$$anon$1.class
-[debug] 	todo\data\State$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State$.class
-[debug] 	todo\data\State$Completed$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State$Completed$.class
-[debug] 	todo\data\State$Completed.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State$Completed.class
-[debug] 	todo\data\State.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State.class
-[debug] 	todo\data\State.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\State.tasty
-[debug] 	todo\data\Tag$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tag$.class
-[debug] 	todo\data\Tag.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tag.class
-[debug] 	todo\data\Tag.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tag.tasty
-[debug] 	todo\data\Tags$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tags$.class
-[debug] 	todo\data\Tags.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tags.class
-[debug] 	todo\data\Tags.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tags.tasty
-[debug] 	todo\data\Task$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Task$.class
-[debug] 	todo\data\Task.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Task.class
-[debug] 	todo\data\Task.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Task.tasty
-[debug] 	todo\data\Tasks$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tasks$.class
-[debug] 	todo\data\Tasks.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tasks.class
-[debug] 	todo\data\Tasks.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\data\Tasks.tasty
-[debug] 	todo\favicon.ico
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\favicon.ico
-[debug] 	todo\IdGenerator.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\IdGenerator.class
-[debug] 	todo\IdGenerator.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\IdGenerator.tasty
-[debug] 	todo\index.html
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\index.html
-[debug] 	todo\InMemoryModel$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\InMemoryModel$.class
-[debug] 	todo\InMemoryModel.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\InMemoryModel.class
-[debug] 	todo\InMemoryModel.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\InMemoryModel.tasty
-[debug] 	todo\Main$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\Main$.class
-[debug] 	todo\Main.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\Main.class
-[debug] 	todo\Main.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\Main.tasty
-[debug] 	todo\manifest.json
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\manifest.json
-[debug] 	todo\Model.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\Model.class
-[debug] 	todo\Model.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\Model.tasty
-[debug] 	todo\PersistentModel$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\PersistentModel$.class
-[debug] 	todo\PersistentModel.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\PersistentModel.class
-[debug] 	todo\PersistentModel.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\PersistentModel.tasty
-[debug] 	todo\todo-ui-opt.js
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\todo-ui-opt.js
-[debug] 	todo\todo-ui-opt.js.map
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\todo-ui-opt.js.map
-[debug] 	todo\TodoService$$anon$1.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\TodoService$$anon$1.class
-[debug] 	todo\TodoService$Description$.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\TodoService$Description$.class
-[debug] 	todo\TodoService.class
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\TodoService.class
-[debug] 	todo\TodoService.tasty
-[debug] 	  C:\Users\amin.hadi\Documents\GitHub\effective-scala\todo\target\scala-3.1.0\classes\todo\TodoService.tasty
-[debug] Done packaging.
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/amin/Downloads/todo/target/scala-3.1.0/effective-scala-todo_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/IdGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/IdGenerator.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/favicon.ico[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/favicon.ico[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/InMemoryModel.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/InMemoryModel.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/PersistentModel.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/PersistentModel.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/Model.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/Model.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/TodoService$Description$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/TodoService$Description$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/Model.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/Model.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/PersistentModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/PersistentModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/AssetService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/AssetService$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/InMemoryModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/InMemoryModel.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/IdGenerator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/IdGenerator.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/AssetService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/AssetService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/todo-ui-opt.js.map[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/todo-ui-opt.js.map[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/PersistentModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/PersistentModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/TodoService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/TodoService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/TodoService$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/TodoService$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/manifest.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/manifest.json[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/todo-ui-opt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/todo-ui-opt.js[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/TodoService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/TodoService.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Task$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Task$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Id.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Id.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State$Completed.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State$Completed.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$tagsCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$tagsCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tags$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tags$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tasks$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tasks$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tag$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tag$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State$Completed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State$Completed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$tagCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$tagCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Id$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Id$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Id.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Id.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$tasksCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$tasksCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/State.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tags.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tags.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$taskCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$taskCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$stateCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$stateCodec$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tasks.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tasks.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Task.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Task.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tag.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tag.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Task.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tasks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tasks.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tag.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tag.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$idEncoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$idEncoder$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Codecs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Codecs$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/data/Tags.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/data/Tags.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/InMemoryModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/InMemoryModel$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	todo/AssetService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/amin/Downloads/todo/target/scala-3.1.0/classes/todo/AssetService.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

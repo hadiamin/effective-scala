@@ -23,6 +23,9 @@ object PersistentModel extends Model:
   /** Path where the next id is saved */
   val idPath = Paths.get("id.json")
 
+  /* Every Task is associated with an Id. Ids must be unique. */
+  private val idGenerator = IdGenerator(Id(3))
+
   /**
    * Load Tasks from a file. Return an empty task list if the file does not exist,
    * and throws an exception if decoding the file fails.
@@ -98,31 +101,40 @@ object PersistentModel extends Model:
    */
 
   def create(task: Task): Id =
-    ???
+    val id = idGenerator.nextId()
+    saveId(id)
+    saveTasks(Tasks(tasks.toMap + (id -> task)))
+    id
 
   def read(id: Id): Option[Task] =
-    ???
+    tasks.toMap.get(id)
 
   def update(id: Id)(f: Task => Task): Option[Task] =
-    ???
+    val updated = tasks.toMap.updatedWith(id)(_.map(f))
+    saveTasks(Tasks(updated))
+    updated.get(id)
 
   def delete(id: Id): Boolean =
-    ???
+    val updatedTasks = tasks.toMap - id
+    saveTasks(Tasks(updatedTasks))
+    !updatedTasks.contains(id)
 
   def tasks: Tasks =
-    ???
+    loadTasks()
 
   def tasks(tag: Tag): Tasks =
-    ???
+    Tasks(tasks.toList.filter((_, task) => task.tags.contains(tag)))
 
   def complete(id: Id): Option[Task] =
-    ???
+    val updated = tasks.toMap.updatedWith(id)(_.map(_.complete))
+    saveTasks(Tasks(updated))
+    updated.get(id)
 
   def tags: Tags =
-    ???
+    Tags(tasks.toList.flatMap((id, task) => task.tags).distinct)
 
   /**
-  * Delete the tasks and id files if they exist.
-  */
+   * Delete the tasks and id files if they exist.
+   */
   def clear(): Unit =
-    ???
+    saveTasks(Tasks.empty)
